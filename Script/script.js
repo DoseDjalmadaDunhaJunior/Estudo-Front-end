@@ -1,1 +1,1 @@
-alert("JavaScript funcionando");
+/*alert("JavaScript funcionando");*/
